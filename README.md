@@ -1,7 +1,6 @@
 - The dataset is obtained from the Youtube Channel: WsCube Tech
 ## Practice Questions
 
-### Basic:
 - Retrieve the total number of orders placed.
   
   <img width="141" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/c240788e-4843-427a-a998-fb2bd959b8e8">
@@ -23,7 +22,6 @@
   <img width="206" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/10f367dd-76ef-4021-851c-da5e65e83cc7">
 
 
-### Intermediate:
 - Join the necessary tables to find the total quantity of each pizza category ordered.
   
   <img width="133" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/973d8c0c-10d6-42b8-8cca-3f5f70b207bd">
@@ -45,7 +43,6 @@
   <img width="231" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/e8c5bdf6-1a67-4de4-991e-4a9fe7f254b0">
 
   
-### Advanced:
 - Calculate the percentage contribution of each pizza type to total revenue.
   
   <img width="197" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/7dd0fffd-8364-46f7-abff-de7006efb578">
