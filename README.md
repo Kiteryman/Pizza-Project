@@ -19,7 +19,7 @@
 
 - List the top 5 most ordered pizza types along with their quantities.
   
-<img width="206" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/10f367dd-76ef-4021-851c-da5e65e83cc7">
+  <img width="206" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/10f367dd-76ef-4021-851c-da5e65e83cc7">
 
 
 ### Intermediate:
@@ -55,4 +55,4 @@
 
 - Determine the top 3 most ordered pizza types based on revenue for each pizza category.
   
-<img width="268" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/ca8f812f-229f-47be-8929-3b1f4c4d2ff0">
+  <img width="268" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/ca8f812f-229f-47be-8929-3b1f4c4d2ff0">
