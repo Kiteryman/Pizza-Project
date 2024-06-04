@@ -49,9 +49,10 @@
   
   <img width="197" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/7dd0fffd-8364-46f7-abff-de7006efb578">
 
-- Analyze the cumulative revenue generated over time. (Select last 5 days in descending order)
+- Analyze the cumulative revenue generated over time. (Select first 5 days in ascending order)
   
-  <img width="183" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/09edce5d-d2ea-485b-84d4-b6debb66aec0">
+  <img width="190" alt="image" src="https://github.com/Kiteryman/Pizza-Project/assets/170436249/a7879252-dce2-4b2e-9e7e-1f80d3f5ac40">
+
 
 - Determine the top 3 most ordered pizza types based on revenue for each pizza category.
   
